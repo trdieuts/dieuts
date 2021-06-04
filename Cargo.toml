@@ -24,6 +24,7 @@ frame-benchmarking = { default-features = false,  version = "3.1.0", optional = 
 frame-support = { default-features = false, version = "3.0.0" }
 frame-system = { default-features = false,  version = "3.0.0" }
 pallet-session = { default-features = false, version = '3.0.0' }
+pallet-octopus-appchain = { default-features = false, git = 'https://github.com/octopus-network/pallet-octopus-appchain.git' }
 sp-core = { default-features = false, version = "3.0.0" }
 sp-io = { default-features = false, version = "3.0.0" }
 sp-runtime = { default-features = false, version = "3.0.0" }
